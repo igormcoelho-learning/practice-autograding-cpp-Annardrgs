@@ -11,13 +11,11 @@ int mul(int a, int b);
 // ===============
 // implementations
 
-int add(int a, int b)
-{
-   return 0; // TODO: fix
+int add(int a, int b){
+   return a + b;
 }
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
-int mul(int a, int b)
-{
-   return 0; // TODO: fix
+int mul(int a, int b){
+   return a * b;
 }
